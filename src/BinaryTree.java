@@ -1,3 +1,6 @@
+/**
+ * Purpose: Preorder, postorder and Inorder on a binary tree
+ */
 class Node2{
         int key;
         Node2 left, right;

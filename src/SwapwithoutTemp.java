@@ -1,3 +1,6 @@
+/**
+ * purpose: to swap the given numbers without using third variable
+ */
 public class SwapwithoutTemp {
     int a = 10;
     int b = 20;

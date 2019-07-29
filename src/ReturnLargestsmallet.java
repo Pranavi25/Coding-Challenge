@@ -1,6 +1,9 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
+/**
+ * Purpose: to return largest and smallest numbers in the array
+ */
 public class ReturnLargestsmallet {
     public static void largest_smallest(int[] numbers){
         int largest = Integer.MIN_VALUE;

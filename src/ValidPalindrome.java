@@ -1,5 +1,8 @@
 import java.sql.SQLOutput;
 
+/**
+ * purpose: to say if given string is a palindrome or not
+ */
 public class ValidPalindrome {
     /**
      * Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.

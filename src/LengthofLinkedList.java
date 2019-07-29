@@ -1,5 +1,6 @@
-
-
+/**
+ * Purpose: it returns the length of the linked list
+ */
 class Node {
     int data;
     Node next;

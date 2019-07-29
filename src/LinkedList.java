@@ -1,3 +1,6 @@
+/**
+ * Purpose: Implements the data structure Linked list: insertion, print, delete by key
+ */
 public class LinkedList {
     Node head; //head of list
     static class Node{

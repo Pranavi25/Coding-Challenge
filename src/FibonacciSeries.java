@@ -1,3 +1,8 @@
+/**
+ * This Program implements Fibonacci series
+ * adds all the numbers upto current
+ */
+
 public class FibonacciSeries {
     public static void main(String args[])
     {

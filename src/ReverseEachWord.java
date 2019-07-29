@@ -1,3 +1,6 @@
+/**
+ * Purpose: To reverse each word in the given string
+ */
 public class ReverseEachWord {
     static void reverseEachWordOfString(String inputString) {
         String[] words = inputString.split( " " );

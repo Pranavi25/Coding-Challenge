@@ -1,3 +1,7 @@
+/**
+ * Purpose: it gives the middle node in a linked list, first node and last node
+ *
+ */
 public class MiddleLinkedList {
     static class SinglyLinkedList {
         static class Node6 {

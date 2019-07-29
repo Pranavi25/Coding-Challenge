@@ -1,6 +1,9 @@
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * purpose: to return prime factors for given number
+ */
 public class PrimeFactors {
     public static void main(String[] args) {
         System.out.printf( "Prime factors of number %d is: %s %n " , 35 , primeFactors( 35 ) );

@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * purpose: to give sum of two numbers
+ */
 public class Twosum {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);

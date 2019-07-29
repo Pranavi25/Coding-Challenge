@@ -1,4 +1,6 @@
-
+/**
+ * purpose: to say if given or checked number is the power of 2
+ */
 class GFG {
     /* Function to check if x is power of 2*/
     static boolean isPowerOfTwo(int n) {

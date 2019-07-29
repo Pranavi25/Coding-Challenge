@@ -1,3 +1,7 @@
+/**
+ * purpose: to remove duplicate nodes in linked list
+ *
+ */
 class RemoveDupLinkedList {
     static Node4 head;
     static class Node4{

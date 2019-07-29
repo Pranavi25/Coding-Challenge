@@ -1,3 +1,6 @@
+/**
+ * Purpose: to return the missing number(s) from the given array
+ */
 public class MissingNumber {
     public static int  missingnumber(int arr[]){
         int n = arr.length+1 ;

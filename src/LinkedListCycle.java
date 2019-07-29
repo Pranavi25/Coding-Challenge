@@ -1,3 +1,6 @@
+/**
+ * purpose: It says if the created linked list is cyclic or not
+ */
 public class LinkedListCycle {
         private Node head;
         public LinkedListCycle() {

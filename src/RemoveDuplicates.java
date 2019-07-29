@@ -1,6 +1,10 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
+/**
+ * Purpose: It removes duplicate numbers if present in the array
+ */
+
 public class RemoveDuplicates {
     public static int[] duplicates(int[] Arrayofduplicates){
         Arrays.sort(Arrayofduplicates);

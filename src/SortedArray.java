@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * Purpose: merges two arrays and sorts the final array
+ */
 class SortedArray {
     public static void sortarray(int arrayone[], int arraytwo[], int sorted[], int m, int n) {
         int i = 0, j = 0, k = 0;

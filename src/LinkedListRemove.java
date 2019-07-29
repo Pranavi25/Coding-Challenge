@@ -1,3 +1,6 @@
+/**
+ * purpose: it removes the nodes from the linked list
+ */
 class LinkedListRemove {
     //Head of the linked list
     Node3 head;

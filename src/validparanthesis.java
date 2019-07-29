@@ -1,6 +1,9 @@
 import java.util.HashMap;
 import java.util.Stack;
 
+/**
+ * purpose: to match correct closing of paranthesis to it's corresponding open paranthesis
+ */
 public class validparanthesis {
 
         // Hash table that takes care of the mappings.

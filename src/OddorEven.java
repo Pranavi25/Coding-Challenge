@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * purpose: to say if the given number is odd or even
+ */
 public class OddorEven {
     public static void main(String args[]) {
         int num;

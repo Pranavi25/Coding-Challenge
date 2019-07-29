@@ -1,3 +1,11 @@
+/**
+ * Purpose: to search values in a binary tree
+ * Data structures: tree
+ * @root node
+ * @left child
+ * @right child
+ */
+
 class Node1 {
 
     int data;
